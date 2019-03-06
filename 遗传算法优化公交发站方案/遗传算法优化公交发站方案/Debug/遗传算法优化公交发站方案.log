@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\my_way\desktop\文件\课程资料\大二下\电子商务物流\遗传算法优化公交发站方案\遗传算法优化公交发站方案\ga2bus.h(11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  遗传算法优化公交发站方案.vcxproj -> C:\Users\My_way\Desktop\文件\课程资料\大二下\电子商务物流\遗传算法优化公交发站方案\Debug\遗传算法优化公交发站方案.exe
+  遗传算法优化公交发站方案.vcxproj -> C:\Users\My_way\Desktop\文件\课程资料\大二下\电子商务物流\遗传算法优化公交发站方案\Debug\遗传算法优化公交发站方案.pdb (Full PDB)
